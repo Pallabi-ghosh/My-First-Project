@@ -2,7 +2,7 @@
 
 /* Here's a
 multi-line
-comment. */
+comment. Just to add a comment*/
 
 // console.log('This code is no longer active')
 
